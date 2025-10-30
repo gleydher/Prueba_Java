@@ -5,7 +5,7 @@ public class Prueba {
     
  public static void main (String [] args) {
 // definición de cada una de las variables
-int a = 20, b = 10, c = 0, d = 20, e = 40, f =30;
+int a = 20, b = 10, c = 0, d = 20, e = 40;
     boolean condition = true;
 System.out.println("Valor de a inicial = "+ a);
 
